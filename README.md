@@ -1,1 +1,3 @@
-https://leshapotsurai.github.io/rsschool-cv/cv
+
+https://leshapotsurai.github.io/rsschool-cv/
+
